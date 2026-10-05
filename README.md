@@ -140,9 +140,3 @@ The project uses a retail sales dataset containing information such as:
 
 ---
 
-## 👩‍💻 Author
-
-**Shaik Sadiya Parvin**
-
-- LinkedIn: https://www.linkedin.com/in/sk-sadiya-3a3273291/
-- GitHub: https://github.com/sksadiya22
