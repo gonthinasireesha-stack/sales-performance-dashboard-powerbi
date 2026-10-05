@@ -62,7 +62,6 @@ Sales-Marketing-Analytics-Dashboard
 │
 ├── Dashboard.pbix
 ├── README.md
-├── Report.pdf
 └── screenshots
     ├── dashboard1.png
     ├── dashboard2.png
